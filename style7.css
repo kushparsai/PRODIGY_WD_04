@@ -53,6 +53,12 @@ header nav ul li a:hover {
 section {
     padding: 2rem 0;
 }
+.profile-photo {
+    max-width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 1rem auto;
+}
 
 .home-section {
     background: #ff6347;
